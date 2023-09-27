@@ -84,8 +84,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 3. Make your changes and commit them.
 4. Push your changes to your fork.
 5. Create a pull request to the `main` branch of this repository.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-```
